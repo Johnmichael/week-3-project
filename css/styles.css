@@ -1,0 +1,69 @@
+/*
+Week 3 Portfolio
+@johnmichaelparsons
+License: GNU
+*/
+
+
+/* ========================= GENERAL TAGS ======================== */
+
+
+/* ========================= CLASSES ======================== */
+
+
+/* --- div --- */
+
+
+
+/*--------------*/
+
+
+/* --- list --- */
+
+
+/*--------------*/
+
+
+/* --- font --- */
+
+
+
+/*--------------*/
+
+
+/* --- image --- */
+
+
+
+/*--------------*/
+
+
+/* --- decoration --- */
+
+a:hover{
+  background-color: #d7f4fa;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+/*--------------*/
+
+/* --- spacing --- */
+
+.headerspace {
+  margin-top: 1%;
+}
+
+.footerspace {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.textbreak {
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}
+
+/*--------------*/
