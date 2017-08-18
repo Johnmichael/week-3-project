@@ -8,12 +8,18 @@ License: GNU
 /* ========================= GENERAL TAGS ======================== */
 
 
-/* ========================= CLASSES ======================== */
+/* ========================= CLASSES ============================ */
 
 
 /* --- div --- */
 
+#content {
+  border-style: solid;
+  border-radius: 5px/10px;
+  border-color: #d7f4fa;
+  margin-left: 3.5%;
 
+}
 
 /*--------------*/
 
@@ -25,7 +31,9 @@ License: GNU
 
 
 /* --- font --- */
-
+body{
+  font-family: "Open Sans"
+}
 
 
 /*--------------*/
@@ -48,9 +56,24 @@ a:link {
   text-decoration: none;
 }
 
+.borderelement{
+background-color: #d7f4fa;
+text-align: center;
+border-radius: 15px;
+}
+#about {
+  border-style: solid;
+  border-radius: 5%;
+  border-color: #d7f4fa;
+ margin-left: 1.5%;
+}
 /*--------------*/
 
 /* --- spacing --- */
+
+.buttonHolder{
+  text-align: center;
+}
 
 .headerspace {
   margin-top: 1%;
