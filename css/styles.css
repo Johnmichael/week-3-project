@@ -59,13 +59,16 @@ a:link {
 .borderelement{
 background-color: #d7f4fa;
 text-align: center;
-border-radius: 15px;
+border-radius: 5px/10px;
+padding-top: .75%;
+padding-bottom: .75%;
+
 }
 #about {
   border-style: solid;
-  border-radius: 5%;
+  border-radius: 5px/10px;
   border-color: #d7f4fa;
- margin-left: 1.5%;
+  margin-left: 1.5%;
 }
 /*--------------*/
 
