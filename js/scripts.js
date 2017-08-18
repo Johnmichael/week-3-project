@@ -3,7 +3,6 @@
 const ping = 3;
 const pong = 5;
 const pingPong = (ping * pong);
-
 var pingPongCalc = function(number) {
   var inputArray = [];
   for (var i = 1; i <= number; i++) {
@@ -19,7 +18,6 @@ var pingPongCalc = function(number) {
   }
   return inputArray;
 };
-
 
 // FRONT END LOGIC
 
