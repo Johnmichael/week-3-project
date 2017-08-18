@@ -4,7 +4,7 @@ This is the week three code review for the "Intro to Programming" project for Ep
 
 ## Getting Started
 
-This project will either be available for download immediately, or will be available on [github pages](johnmichaelparsons.github.io/week-3.html).
+This project will either be available for download immediately, or will be available on [github pages](https://johnmichaelparsons.github.io/week-3-project/index.html).
 
 After downloading, drag and drop "index.html" onto an empty Google Chrome tab.
 
